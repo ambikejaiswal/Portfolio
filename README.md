@@ -1,27 +1,27 @@
-# 💼 Amisha Singh – Developer Portfolio
+# Ambike Jaiswal – Developer Portfolio
 
 A sleek, responsive personal portfolio built using **React**, **Vite**, **Tailwind CSS**, and **EmailJS**. This site showcases my skills, projects, experience, and allows visitors to contact me directly via a functional form.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-🔗 [View Portfolio](https://amishasingh.vercel.app/)
-
----
-
-## ✨ Features
-
-- ⚡ Blazing fast build and performance with **Vite**
-- 💎 Clean and responsive UI built with **Tailwind CSS**
-- 📱 Mobile-first design with hamburger navigation
-- 🔗 Smooth scrolling navigation to sections: About, Skills, Projects, Experience, Contact
-- 📨 Contact form integration with **EmailJS**
-- 🔐 Environment variable support for secure API keys
+🔗 [View Portfolio](https://portfolio-web-developer-e41f.vercel.app/)
 
 ---
 
-## 🚀 Tech Stack
+##  Features
+
+-  Blazing fast build and performance with **Vite**
+-  Clean and responsive UI built with **Tailwind CSS**
+-  Mobile-first design with hamburger navigation
+-  Smooth scrolling navigation to sections: About, Skills, Projects, Experience, Contact
+-  Contact form integration with **EmailJS**
+-  Environment variable support for secure API keys
+
+---
+
+##  Tech Stack
 
 - **React** – Frontend framework
 - **Vite** – Build tool for instant dev server and optimized builds
@@ -31,7 +31,7 @@ A sleek, responsive personal portfolio built using **React**, **Vite**, **Tailwi
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 portfolio/
 ├── public/
 ├── src/
@@ -42,14 +42,10 @@ portfolio/
 ├── .env # EmailJS credentials (not committed)
 └── README.md
 
-🖼️ Screenshots
-💻 Desktop View
-![Desktop View](./src/utils/Desktop.png)
-📱 Mobile Navigation
-![Desktop View](./src/utils/Mobile.png)
+---
 
-
-📄 License
+### License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
+---
